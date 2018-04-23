@@ -2,8 +2,16 @@
     "name": "vscode-theme-github-light",
     "displayName": "Github Light Theme",
     "description": "Github theme for vscode.",
-    "version": "1.2.0",
+    "version": "1.5.0",
     "publisher": "Hyzeta",
+    "bugs": {
+        "url": "https://github.com/Hyzeta/vscode-theme-github-light/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Hyzeta/vscode-theme-github-light"
+    },
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.22.0"
     },

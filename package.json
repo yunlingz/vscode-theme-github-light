@@ -1,0 +1,22 @@
+{
+    "name": "vscode-theme-github-light",
+    "displayName": "Github Light Theme",
+    "description": "Github theme for vscode.",
+    "version": "1.2.0",
+    "publisher": "Hyzeta",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Github Light",
+                "uiTheme": "vs",
+                "path": "./themes/GithubLight-color-theme.json"
+            }
+        ]
+    }
+}

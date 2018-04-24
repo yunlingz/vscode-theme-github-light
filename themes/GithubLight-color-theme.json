@@ -1,175 +1,244 @@
 {
-	"name": "Github Light",
-	"colors": {
-		"activityBar.background": "#FFFFFF",
-		"activityBar.foreground": "#121417",
-		"activityBarBadge.background": "#D53C4C",
-		"activityBarBadge.foreground": "#FFFFFF",
-		"button.background": "#D53C4C",
-		"button.foreground": "#FFFFFF",
-		"button.hoverBackground": "#9E1717",
-		"diffEditor.insertedTextBackground": "#00809B33",
-		"dropdown.background": "#FFFFFF",
-		"dropdown.border": "#DBDBDC",
-		"editor.background": "#FFFFFF",
-		"editor.foreground": "#25292E",
-		"editor.lineHighlightBackground": "#F3F3F3",
-		"editorCursor.foreground": "#25292E",
-		"editor.selectionBackground": "#B3D7FD",
-		"editorGroup.background": "#EAEAEB",
-		"editorGroup.border": "#DBDBDC",
-		"editorGroupHeader.tabsBackground": "#EAEAEB",
-		"editorIndentGuide.background": "#D3D4D5",
-		"editorLineNumber.foreground": "#9D9D9F",
-		"editorHoverWidget.background": "#F3F3F3",
-		"editorHoverWidget.border": "#DBDBDC",
-		"editorSuggestWidget.background": "#F3F3F3",
-		"editorSuggestWidget.border": "#DBDBDC",
-		"editorSuggestWidget.selectedBackground": "#FFFFFF",
-		"editorWhitespace.foreground": "#B3D7FD",
-		"editorWidget.background": "#F3F3F3",
-		"input.background": "#FFFFFF",
-		"input.border": "#DBDBDC",
-		"focusBorder": "#D53C4C",
-		"list.activeSelectionBackground": "#DBDBDC",
-		"list.activeSelectionForeground": "#232324",
-		"list.focusBackground": "#DBDBDC",
-		"list.hoverBackground": "#DBDBDC66",
-		"list.highlightForeground": "#121417",
-		"list.inactiveSelectionBackground": "#DBDBDC",
-		"list.inactiveSelectionForeground": "#232324",
-		"pickerGroup.border": "#D53C4C",
-		"scrollbarSlider.background": "#4E566680",
-		"scrollbarSlider.activeBackground": "#747D9180",
-		"scrollbarSlider.hoverBackground": "#5A637580",
-		"sideBar.background": "#F3F3F3",
-		"sideBarSectionHeader.background": "#FFFFFF",
-		"statusBar.background": "#E3E3E3",
-		"statusBar.foreground": "#424243",
-		"statusBarItem.hoverBackground": "#DBDBDC",
-		"statusBar.noFolderBackground": "#E3E3E3",
-		"tab.activeBackground": "#FFFFFF",
-		"tab.border": "#DBDBDC",
-		"tab.inactiveBackground": "#F8F8F8",
-		"titleBar.activeBackground": "#F3F3F3",
-		"titleBar.activeForeground": "#424243",
-		"titleBar.inactiveBackground": "#F3F3F3",
-		"titleBar.inactiveForeground": "#424243",
-		"statusBar.debuggingForeground": "#FFFFFF",
-		"extensionButton.prominentBackground": "#D53C4C",
-		"extensionButton.prominentHoverBackground": "#D53C4C",
-		"badge.background": "#D53C4C",
-		"badge.foreground": "#FFFFFF",
-		"peekView.border": "#D53C4C",
-		"peekViewResult.background": "#F3F3F3",
-		"peekViewResult.selectionBackground": "#DBDBDC",
-		"peekViewTitle.background": "#FFFFFF",
-		"peekViewEditor.background": "#FFFFFF"
-	},
 	"tokenColors": [
 		{
-			"scope": [
-				"entity.name",
-				"entity.name.class",
-				"entity.name.function",
-				"entity.name.section",
-				"entity.other.inherited-class",
-				"entity.other.attribute-name"
-			],
+			"name": "entity.name",
+			"scope": "entity.name",
 			"settings": {
 				"foreground": "#6E47BE"
 			}
 		},
 		{
+			"name": "entity.name.class",
+			"scope": "entity.name.class",
+			"settings": {
+				"foreground": "#6E47BE"
+			}
+		},
+		{
+			"name": "entity.name.function",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#6E47BE"
+			}
+		},
+		{
+			"name": "entity.name.section",
+			"scope": "entity.name.section",
+			"settings": {
+				"foreground": "#6E47BE"
+			}
+		},
+		{
+			"name": "entity.other.inherited-class",
+			"scope": "entity.other.inherited-class",
+			"settings": {
+				"foreground": "#6E47BE"
+			}
+		},
+		{
+			"name": "entity.other.attribute-name",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#6E47BE"
+			}
+		},
+		{
+			"name": "entity.name.tag",
 			"scope": "entity.name.tag",
 			"settings": {
 				"foreground": "#D53C4C"
 			}
 		},
 		{
-			"scope": [
-				"variable",
-				"variable.language",
-				"variable.parameter"
-			],
+			"name": "variable",
+			"scope": "variable",
 			"settings": {
 				"foreground": "#25292E"
 			}
 		},
 		{
-			"scope": [
-				"constant",
-				"constant.numeric",
-				"constant.language",
-				"constant.character",
-				"constant.character.escape",
-				"constant.other"
-			],
+			"name": "variable.language",
+			"scope": "variable.language",
+			"settings": {
+				"foreground": "#25292E"
+			}
+		},
+		{
+			"name": "variable.parameter",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#25292E"
+			}
+		},
+		{
+			"name": "variable.function",
+			"scope": "variable.function",
 			"settings": {
 				"foreground": "#0E5FC1"
 			}
 		},
 		{
-			"scope": [
-				"storage",
-				"storage.type",
-				"storage.modifier"
-			],
+			"name": "constant",
+			"scope": "constant",
+			"settings": {
+				"foreground": "#0E5FC1"
+			}
+		},
+		{
+			"name": "constant.numeric",
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#0E5FC1"
+			}
+		},
+		{
+			"name": "constant.language",
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#0E5FC1"
+			}
+		},
+		{
+			"name": "constant.character",
+			"scope": "constant.character",
+			"settings": {
+				"foreground": "#0E5FC1"
+			}
+		},
+		{
+			"name": "constant.character.escape",
+			"scope": "constant.character.escape",
+			"settings": {
+				"foreground": "#0E5FC1"
+			}
+		},
+		{
+			"name": "constant.other",
+			"scope": "constant.other",
+			"settings": {
+				"foreground": "#0E5FC1"
+			}
+		},
+		{
+			"name": "storage",
+			"scope": "storage",
 			"settings": {
 				"foreground": "#D53C4C"
 			}
 		},
 		{
+			"name": "storage.type",
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#D53C4C"
+			}
+		},
+		{
+			"name": "storage.modifier",
+			"scope": "storage.modifier",
+			"settings": {
+				"foreground": "#D53C4C"
+			}
+		},
+		{
+			"name": "support",
 			"scope": "support",
 			"settings": {
-				"foreground": "#D53C4C"
+				"foreground": "#0E5FC1"
 			}
 		},
 		{
-			"scope": [
-				"keyword",
-				"keyword.control"
-			],
+			"name": "support.other.variable",
+			"scope": "support.other.variable",
+			"settings": {
+				"foreground": "#25292E"
+			}
+		},
+		{
+			"name": "keyword",
+			"scope": "keyword",
 			"settings": {
 				"foreground": "#D53C4C"
 			}
 		},
 		{
+			"name": "keyword.control",
+			"scope": "keyword.control",
+			"settings": {
+				"foreground": "#D53C4C"
+			}
+		},
+		{
+			"name": "keyword.operator",
 			"scope": "keyword.operator",
 			"settings": {
 				"foreground": "#25292E"
 			}
 		},
 		{
+			"name": "string",
 			"scope": "string",
 			"settings": {
 				"foreground": "#063160"
 			}
 		},
 		{
+			"name": "comment",
 			"scope": "comment",
 			"settings": {
 				"foreground": "#6A737C"
 			}
 		},
 		{
-			"scope": [
-				"invalid",
-				"invalid.deprecated"
-			],
+			"name": "invalid",
+			"scope": "invalid",
 			"settings": {
 				"foreground": "#D53C4C"
 			}
 		},
 		{
-			"scope": [
-				"entity.name.function",
-				"support.function",
-				"support.constant.handlebars"
-			],
+			"name": "invalid.deprecated",
+			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#6E47BE"
+				"foreground": "#D53C4C"
+			}
+		},
+		{
+			"name": "meta.function-call support.function",
+			"scope": "meta.function-call support.function",
+			"settings": {
+				"foreground": "#0E5FC1"
+			}
+		},
+		{
+			"name": "meta.function-call entity.name.function",
+			"scope": "meta.function-call entity.name.function",
+			"settings": {
+				"foreground": "#0E5FC1"
 			}
 		}
-	]
+	],
+	"colors": {
+		"editor.background": "#FFFFFF",
+		"editorCursor.foreground": "#25292E",
+		"editor.foreground": "#25292E",
+		"editor.lineHighlightBackground": "#F3F3F3",
+		"editor.selectionBackground": "#FFE792",
+		"editor.inactiveSelectionBackground": "#FFE792",
+		"editorIndentGuide.background": "#D3D3D3",
+		"editor.selectionHighlightBackground": "#ADD6FF4D",
+		"editorSuggestWidget.background": "#F3F3F3",
+		"activityBar.background": "#FAFAFA",
+		"activityBar.foreground": "#656565",
+		"activityBarBadge.background": "#007ACC",
+		"statusBar.background": "#E3E3E3",
+		"statusBar.foreground": "#424243",
+		"statusBarItem.hoverBackground": "#DBDBDC",
+		"statusBar.noFolderBackground": "#E3E3E3",
+		"statusBar.debuggingForeground": "#FFFFFF",
+		"sideBarTitle.foreground": "#6F6F6F",
+		"list.hoverBackground": "#E8E8E8",
+		"input.placeholderForeground": "#ADADAD"
+	},
+	"name": "Github Light"
 }

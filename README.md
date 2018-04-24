@@ -12,4 +12,4 @@ Maybe the best Github-styled theme you can find on extension market.
 
 # Other
 
-I also create an theme for Sublime Text and TextMate, [you can get it here](https://github.com/Hyzeta/sublime-theme-github-light).
+I also create a theme for Sublime Text and TextMate, [you can get it here](https://github.com/Hyzeta/sublime-theme-github-light).

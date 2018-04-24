@@ -1,6 +1,6 @@
 # [Github Light Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
 
-Maybe the best Github-styled theme you can find on extension market.
+Maybe the best Github-styled theme you can find in extension market.
 
 [GitHub repository](https://github.com/Hyzeta/vscode-theme-github-light)
 

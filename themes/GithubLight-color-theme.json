@@ -70,14 +70,6 @@
 				"foreground": "#25292E"
 			}
 		},
-		// vscode does not support "variable.function"
-		// {
-		// 	"name": "variable.function",
-		// 	"scope": "variable.function",
-		// 	"settings": {
-		// 		"foreground": "#0E5FC1"
-		// 	}
-		// },
 		{
 			"name": "constant",
 			"scope": "constant",

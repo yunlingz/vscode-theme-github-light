@@ -4,8 +4,8 @@
 	"colors": {
 		"editor.background": "#ffffff",
 		"editor.foreground": "#24292e",
-		"statusBar.background": "#68217A",
-		"statusBar.noFolderBackground": "#e36209",
+		"statusBar.background": "#e36209",
+		"statusBar.noFolderBackground": "#68217a",
 		"statusBar.debuggingBackground": "#d73a49"
 	},
 	"tokenColors": [

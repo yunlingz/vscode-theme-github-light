@@ -2,11 +2,25 @@
 	"name": "Github Light Theme",
 	"type": "light",
 	"colors": {
-		"editor.background": "#ffffff",
+		"editor.background": "#f0f0f0",
 		"editor.foreground": "#24292e",
-		"statusBar.background": "#e36209",
-		"statusBar.noFolderBackground": "#68217a",
-		"statusBar.debuggingBackground": "#d73a49"
+		"activityBar.background": "#f0f0f0",
+		"activityBar.foreground": "#24292e",
+		"statusBar.background": "#e5e5e5",
+		"statusBar.foreground": "#24292e",
+		"statusBar.noFolderBackground": "#e5e5e5",
+		"statusBar.noFolderForeground": "#24292e",
+		"statusBar.debuggingBackground": "#e5e5e5",
+		"statusBar.debuggingForeground": "#24292e",
+		"statusBarItem.prominentBackground": "#ff0000",
+		"editorGroupHeader.tabsBackground": "#e5e5e5",
+		"editorGroupHeader.noTabsBackground": "#e5e5e5",
+		"sideBar.background": "#e5e5e5",
+		"sideBar.foreground": "#24292e",
+		"list.activeSelectionBackground": "#b2b2b2",
+		"list.activeSelectionForeground": "#f0f0f0",
+		"list.inactiveSelectionBackground": "#b2b2b2",
+		"list.inactiveSelectionForeground": "#f0f0f0"
 	},
 	"tokenColors": [
 		{

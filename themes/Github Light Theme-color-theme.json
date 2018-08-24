@@ -20,7 +20,9 @@
 		"list.activeSelectionBackground": "#b2b2b2",
 		"list.activeSelectionForeground": "#f0f0f0",
 		"list.inactiveSelectionBackground": "#b2b2b2",
-		"list.inactiveSelectionForeground": "#f0f0f0"
+		"list.inactiveSelectionForeground": "#f0f0f0",
+		"editor.lineHighlightBackground": "#e5e5e5",
+		"editor.lineHighlightBorder": "#e5e5e5"
 	},
 	"tokenColors": [
 		{

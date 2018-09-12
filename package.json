@@ -23,7 +23,7 @@
             {
                 "label": "Github Light Theme",
                 "uiTheme": "vs",
-                "path": "./themes/Github Light Theme-color-theme.json"
+                "path": "./themes/Github-Light-Theme-color-theme.json"
             }
         ]
     }

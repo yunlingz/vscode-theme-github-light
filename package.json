@@ -26,7 +26,7 @@
                 "path": "./themes/Github-Light-Theme-color-theme.json"
             },
             {
-                "label": "Github Light Theme (Gray)",
+                "label": "Github Light Theme - Gray",
                 "uiTheme": "vs",
                 "path": "./themes/Github-Light-Theme-Gray-color-theme.json"
             }

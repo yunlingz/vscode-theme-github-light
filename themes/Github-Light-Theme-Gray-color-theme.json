@@ -20,8 +20,8 @@
 		"list.activeSelectionForeground": "#f0f0f0",
 		"list.inactiveSelectionBackground": "#a3a3a3",
 		"list.inactiveSelectionForeground": "#f0f0f0",
-		"editor.lineHighlightBackground": "#f0f0f0",
-		"editor.lineHighlightBorder": "#f0f0f0",
+		"editor.lineHighlightBackground": "#e1e1e1",
+		"editor.lineHighlightBorder": "#e1e1e1",
 		"editorLineNumber.foreground": "#7f7f7f",
 		"editorLineNumber.activeForeground": "#000000"
 	},

@@ -62,7 +62,9 @@
 		"notifications.border": "#b2b2b2",
 		// button
 		"button.background": "#d73a49",
-		"button.foreground": "#f0f0f0"
+		"button.foreground": "#f0f0f0",
+		// titlebar
+		"titleBar.border": "#b2b2b2"
 	},
 	"tokenColors": [
 		{

@@ -12,7 +12,7 @@ I ensure you this is **the best** Github-styled theme for Visual Studio Code.
 
 ![](https://github.com/Hyzeta/resources/raw/master/vscode-github-theme/github-theme-0.png)
 
-## Gray background: Github Light Theme (Gray)
+## Gray background: Github Light Theme - Gray
 
 ![](https://github.com/Hyzeta/resources/raw/master/vscode-github-theme/github-theme-1.png)
 

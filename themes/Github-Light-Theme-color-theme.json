@@ -2,28 +2,67 @@
 	"name": "Github Light Theme",
 	"type": "light",
 	"colors": {
+		// base color
+		"focusBorder": "#b2b2b200",
+		"foreground": "#24292e",
 		"editor.background": "#ffffff",
 		"editor.foreground": "#24292e",
+		"scrollbar.shadow": "#ffffff",
+		// activity bar
+		"activityBar.border": "#b2b2b2",
 		"activityBar.background": "#ffffff",
 		"activityBar.foreground": "#24292e",
-		"statusBar.background": "#f7f7f7",
+		"activityBarBadge.background": "#d73a49",
+		// status bar
+		"statusBar.border": "#b2b2b2",
+		"statusBar.background": "#ffffff",
 		"statusBar.foreground": "#24292e",
-		"statusBar.noFolderBackground": "#f7f7f7",
+		"statusBar.noFolderBackground": "#ffffff",
 		"statusBar.noFolderForeground": "#24292e",
-		"statusBar.debuggingBackground": "#f7f7f7",
+		"statusBar.debuggingBackground": "#ffffff",
 		"statusBar.debuggingForeground": "#24292e",
-		"editorGroupHeader.tabsBackground": "#f7f7f7",
-		"editorGroupHeader.noTabsBackground": "#f7f7f7",
-		"sideBar.background": "#f7f7f7",
+		// editor groups and tabs
+		"editorGroupHeader.tabsBackground": "#ffffff",
+		"editorGroupHeader.noTabsBackground": "#ffffff",
+		"editorGroupHeader.tabsBorder": "#ffffff",
+		"tab.activeBackground": "#ffffff",
+		"tab.inactiveBackground": "#ffffff",
+		"tab.border": "#ffffff",
+		"tab.activeBorder": "#d73a49",
+		// side bars
+		"sideBar.border": "#b2b2b2",
+		"sideBar.background": "#ffffff",
 		"sideBar.foreground": "#24292e",
-		"list.activeSelectionBackground": "#b2b2b2",
-		"list.activeSelectionForeground": "#ffffff",
-		"list.inactiveSelectionBackground": "#b2b2b2",
-		"list.inactiveSelectionForeground": "#ffffff",
+		"sideBarSectionHeader.background": "#ffffff",
+		"list.activeSelectionBackground": "#f0f0f0",
+		"list.activeSelectionForeground": "#d73a49",
+		"list.inactiveSelectionBackground": "#f0f0f0",
+		"list.inactiveSelectionForeground": "#d73a49",
+		"list.hoverBackground": "#ffffff",
+		"list.hoverForeground": "#d73a49",
+		"list.focusBackground": "#f0f0f0",
+		"list.focusForeground": "#d73a49",
+		// editor
 		"editor.lineHighlightBackground": "#f0f0f0",
 		"editor.lineHighlightBorder": "#f0f0f0",
 		"editorLineNumber.foreground": "#7f7f7f",
-		"editorLineNumber.activeForeground": "#000000"
+		"editorLineNumber.activeForeground": "#000000",
+		"editor.selectionBackground": "#fed442",
+		// input
+		"input.border": "#b2b2b2",
+		"input.background": "#ffffff",
+		"dropdown.border": "#b2b2b2",
+		"dropdown.background": "#ffffff",
+		"dropdown.listBackground": "#ffffff",
+		// notification
+		"notificationCenter.border": "#b2b2b2",
+		"notificationCenterHeader.background": "#ffffff",
+		"notificationToast.border": "#b2b2b2",
+		"notifications.background": "#ffffff",
+		"notifications.border": "#b2b2b2",
+		// button
+		"button.background": "#d73a49",
+		"button.foreground": "#ffffff"
 	},
 	"tokenColors": [
 		{

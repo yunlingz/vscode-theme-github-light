@@ -64,7 +64,11 @@
 		"button.background": "#d73a49",
 		"button.foreground": "#ffffff",
 		// titlebar
-		"titleBar.border": "#b2b2b2"
+		"titleBar.border": "#b2b2b2",
+		"titleBar.activeBackground": "#ffffff",
+		"titleBar.activeForeground": "#24292e",
+		"titleBar.inactiveBackground": "#ffffff",
+		"titleBar.inactiveForeground": "#24292e"
 	},
 	"tokenColors": [
 		{

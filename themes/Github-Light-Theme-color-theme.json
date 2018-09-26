@@ -34,14 +34,16 @@
 		"sideBar.background": "#ffffff",
 		"sideBar.foreground": "#24292e",
 		"sideBarSectionHeader.background": "#ffffff",
-		"list.activeSelectionBackground": "#b2b2b2",
-		"list.activeSelectionForeground": "#ffffff",
-		"list.inactiveSelectionBackground": "#b2b2b2",
-		"list.inactiveSelectionForeground": "#ffffff",
-		"list.hoverBackground": "#b2b2b2",
-		"list.hoverForeground": "#ffffff",
-		"list.focusBackground": "#b2b2b2",
-		"list.focusForeground": "#ffffff",
+		// list
+		"list.highlightForeground": "#d73a49",
+		"list.activeSelectionBackground": "#f0f0f0",
+		"list.activeSelectionForeground": "#d73a49",
+		"list.inactiveSelectionBackground": "#f0f0f0",
+		"list.inactiveSelectionForeground": "#d73a49",
+		"list.hoverBackground": "#f0f0f0",
+		"list.hoverForeground": "#d73a49",
+		"list.focusBackground": "#f0f0f0",
+		"list.focusForeground": "#d73a49",
 		// editor
 		"editor.lineHighlightBackground": "#f0f0f0",
 		"editor.lineHighlightBorder": "#f0f0f0",
@@ -68,7 +70,12 @@
 		"titleBar.activeBackground": "#ffffff",
 		"titleBar.activeForeground": "#24292e",
 		"titleBar.inactiveBackground": "#ffffff",
-		"titleBar.inactiveForeground": "#24292e"
+		"titleBar.inactiveForeground": "#24292e",
+		// editor widget
+		"editorWidget.background": "#ffffff",
+		"editorWidget.border": "#24292e",
+		"editorSuggestWidget.highlightForeground": "#d73a49",
+		"editorSuggestWidget.selectedBackground": "#f0f0f0"
 	},
 	"tokenColors": [
 		{

@@ -1,6 +1,6 @@
 # [Github Light Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
 
-[![Apache License version 2.0](https://img.shields.io/static/v1.svg?label=License&message=Apache%20License%20version%202.0&logoColor=ffffff&labelColor=24292e&color=6f42c1&style=flat-square&logo=read-the-docs)](https://opensource.org/licenses/Apache-2.0)
+[![Mozilla Public License 2.0](https://img.shields.io/static/v1.svg?label=License&message=Mozilla%20Public%20License%202.0&logoColor=ffffff&labelColor=24292e&color=6f42c1&style=flat-square&logo=read-the-docs)](https://spdx.org/licenses/MPL-2.0.html)
 [![996.ICU](https://img.shields.io/static/v1.svg?label=Link&message=996%2EICU&logoColor=ffffff&labelColor=24292e&color=db3660&style=flat-square&logo=read-the-docs)](https://996.icu/#/en_US)
 
 [![靈 (github.com/hyzeta)](https://img.shields.io/static/v1.svg?label=Developer&message=%E9%9D%88%20(github.com/hyzeta)&logoColor=ffffff&labelColor=24292e&color=d33682&style=flat-square&logo=github)](https://github.com/hyzeta)
@@ -16,12 +16,16 @@ I ensure you this is **the best** Github-styled theme for Visual Studio Code.
 
 [GitHub repository](https://github.com/Hyzeta/vscode-theme-github-light)
 
-# ScreenShot
+## ScreenShot
 
-## Origin pure white background: Github Light Theme
+### Origin pure white background: Github Light Theme
 
 ![](https://github.com/Hyzeta/resources/raw/master/vscode-github-theme/github-theme-0.png)
 
-## Gray background: Github Light Theme - Gray
+### Gray background: Github Light Theme - Gray
 
 ![](https://github.com/Hyzeta/resources/raw/master/vscode-github-theme/github-theme-1.png)
+
+## License
+
+The code syntax theme was ported from https://github.com/primer/github-syntax-light. Which is licensed under MIT. Copyright of the code syntax theme belongs to GitHub, Inc.

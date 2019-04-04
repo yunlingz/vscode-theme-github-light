@@ -1,3 +1,16 @@
+// --------------------------------------------------------------------
+// This Source Code Form is subject to the terms of the Mozilla Public
+// License, v. 2.0. If a copy of the MPL was not distributed with this
+// file, You can obtain one at https://mozilla.org/MPL/2.0/.
+// --------------------------------------------------------------------
+// List of authors:
+//     1. 靈 (github.com/hyzeta)
+// --------------------------------------------------------------------
+// The code syntax theme was ported from
+// https://github.com/primer/github-syntax-light.
+// Which is licensed under MIT.
+// Copyright of the code syntax theme belongs to GitHub, Inc.
+// --------------------------------------------------------------------
 {
     "name": "Github Light Theme",
     "type": "light",

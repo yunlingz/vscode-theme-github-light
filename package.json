@@ -2,8 +2,9 @@
     "name": "vscode-theme-github-light",
     "displayName": "Github Light Theme",
     "description": "The best Github-styled theme for Visual Studio Code.",
-    "version": "3.6.3",
+    "version": "3.6.4",
     "publisher": "Hyzeta",
+    "license": "MPL-2.0",
     "bugs": {
         "url": "https://github.com/Hyzeta/vscode-theme-github-light/issues"
     },

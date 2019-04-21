@@ -19,12 +19,24 @@ Try this theme if others don't meet your needs.
 
 ### Origin pure white background: Github Light Theme
 
-![](./screenshot/0.png)
+![pure white background](./screenshot/0.png)
 
 ### Gray background: Github Light Theme - Gray
 
-![](./screenshot/1.png)
+![gray background](./screenshot/1.png)
+
+## Tips
+
+If you are using MacBook, and your system is macOS 10.14+, these global settings will give you a better experience.
+
+```json
+{
+    "editor.fontWeight": "500",
+    "terminal.integrated.fontWeight": "500",
+    "editor.lineHeight": 20
+}
+```
 
 ## Other license
 
-The code syntax theme was ported from https://github.com/primer/github-syntax-light. Which is licensed under MIT. Copyright of the code syntax theme belongs to GitHub, Inc.
+The code syntax theme was ported from <https://github.com/primer/github-syntax-light>. Which is licensed under MIT. Copyright of the code syntax theme belongs to GitHub, Inc.

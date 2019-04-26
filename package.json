@@ -1,36 +1,36 @@
 {
-    "name": "vscode-theme-github-light",
-    "displayName": "Github Light Theme",
-    "description": "Try this theme if others don't meet your needs.",
-    "version": "5.1.1",
-    "publisher": "Hyzeta",
-    "license": "MPL-2.0",
-    "bugs": {
-        "url": "https://github.com/Hyzeta/vscode-theme-github-light/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Hyzeta/vscode-theme-github-light"
-    },
-    "icon": "icon.png",
-    "engines": {
-        "vscode": "^1.24.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Github Light Theme",
-                "uiTheme": "vs",
-                "path": "./themes/Github-Light-Theme-color-theme.json"
-            },
-            {
-                "label": "Github Light Theme - Gray",
-                "uiTheme": "vs",
-                "path": "./themes/Github-Light-Theme-Gray-color-theme.json"
-            }
-        ]
-    }
+	"name": "vscode-theme-github-light",
+	"displayName": "Github Light Theme",
+	"description": "Try this theme if others don't meet your needs.",
+	"version": "5.1.1",
+	"publisher": "Hyzeta",
+	"license": "MPL-2.0",
+	"bugs": {
+		"url": "https://github.com/Hyzeta/vscode-theme-github-light/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Hyzeta/vscode-theme-github-light"
+	},
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.24.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Github Light Theme",
+				"uiTheme": "vs",
+				"path": "./themes/Github-Light-Theme-color-theme.json"
+			},
+			{
+				"label": "Github Light Theme - Gray",
+				"uiTheme": "vs",
+				"path": "./themes/Github-Light-Theme-Gray-color-theme.json"
+			}
+		]
+	}
 }

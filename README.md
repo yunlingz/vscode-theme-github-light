@@ -35,7 +35,3 @@ If you are using MacBook, and your system is macOS 10.14+, these global settings
     "editor.lineHeight": 20
 }
 ```
-
-## Other license
-
-The code syntax theme was ported from <https://github.com/primer/github-syntax-light>. Which is licensed under MIT. Copyright of the code syntax theme belongs to GitHub, Inc.

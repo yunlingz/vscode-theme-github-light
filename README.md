@@ -1,5 +1,7 @@
 # Github Light Theme
 
+![In memory of the innocents murdered 30 years ago](./memory.png)
+
 [![SPDX-License-Identifier: BSD-3-Clause](https://img.shields.io/static/v1.svg?label=SPDX-License-Identifier&message=BSD-3-Clause&logoColor=ffffff&labelColor=565b60&color=e72565&style=flat&logo=spdx)](https://spdx.org/licenses/BSD-3-Clause.html)
 
 [![Developer: Ling (github.com/hyzeta)](https://img.shields.io/static/v1.svg?label=Developer&message=Ling%20%28github.com/hyzeta%29&logoColor=ffffff&labelColor=565b60&color=d242c1&style=flat&logo=github)](https://github.com/hyzeta)

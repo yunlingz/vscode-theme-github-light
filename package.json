@@ -12,7 +12,7 @@
 		"type": "git",
 		"url": "https://github.com/Hyzeta/vscode-theme-github-light"
 	},
-	"icon": "icon.png",
+	"icon": "memory.png",
 	"engines": {
 		"vscode": "^1.24.0"
 	},

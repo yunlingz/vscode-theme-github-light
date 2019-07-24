@@ -11,12 +11,6 @@ Try this theme if others don't meet your needs.
 
 [![https://github.com/ChuLing/vscode-theme-github-light](https://img.shields.io/github/stars/ChuLing/vscode-theme-github-light.svg?style=social)](https://github.com/ChuLing/vscode-theme-github-light)
 
-## License
-
-```
-SPDX-License-Identifier: Apache-2.0 OR MIT
-```
-
 * [GitHub repository](https://github.com/ChuLing/vscode-theme-github-light.git)
 * [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
 
@@ -40,4 +34,22 @@ If you are using MacBook, and your system is macOS 10.14+, these global settings
     "terminal.integrated.fontWeight": "500",
     "editor.lineHeight": 20
 }
+```
+
+## License
+
+```
+Copyright 2016-2019 CHU Ling <meetchuling@outlook.com>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 ```

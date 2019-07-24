@@ -4,7 +4,7 @@
     "description": "Try this theme if others don't meet your needs.",
     "version": "6.0.1",
     "publisher": "Hyzeta",
-    "license": "Apache-2.0 OR MIT",
+    "license": "Apache-2.0",
     "bugs": {
         "url": "https://github.com/ChuLing/vscode-theme-github-light/issues"
     },

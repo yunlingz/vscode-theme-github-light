@@ -7,7 +7,7 @@
 [![Issues](https://img.shields.io/github/issues/hyzeta/vscode-theme-github-light.svg?label=Issues&logoColor=ffffff&labelColor=565b60&color=e36209&style=flat&logo=git)](https://github.com/Hyzeta/vscode-theme-github-light/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/hyzeta/vscode-theme-github-light.svg?label=Pull%20Requests&logoColor=ffffff&labelColor=565b60&color=e36209&style=flat&logo=git)](https://github.com/Hyzeta/vscode-theme-github-light/pulls) -->
 
-Try this theme if others don't meet your needs.
+Try this light theme if others don't meet your needs.
 
 [![https://github.com/ChuLing/vscode-theme-github-light](https://img.shields.io/github/stars/ChuLing/vscode-theme-github-light.svg?style=social)](https://github.com/ChuLing/vscode-theme-github-light)
 

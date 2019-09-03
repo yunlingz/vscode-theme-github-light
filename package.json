@@ -6,11 +6,11 @@
     "publisher": "Hyzeta",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/ChuLing/vscode-theme-github-light/issues"
+        "url": "https://github.com/unlimitedsky/vscode-theme-github-light/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ChuLing/vscode-theme-github-light.git"
+        "url": "https://github.com/unlimitedsky/vscode-theme-github-light.git"
     },
     "icon": "icon.png",
     "engines": {

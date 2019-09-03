@@ -11,7 +11,7 @@ Try this light theme if others don't meet your needs.
 
 [![https://github.com/ChuLing/vscode-theme-github-light](https://img.shields.io/github/stars/ChuLing/vscode-theme-github-light.svg?style=social)](https://github.com/ChuLing/vscode-theme-github-light)
 
-* [GitHub repository](https://github.com/ChuLing/vscode-theme-github-light.git)
+* [GitHub repository](https://github.com/unlimitedsky/vscode-theme-github-light.git)
 * [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
 
 ## Screenshot

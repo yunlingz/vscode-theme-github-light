@@ -2,9 +2,9 @@
     "name": "vscode-theme-github-light",
     "displayName": "Github Light Theme",
     "description": "Try this theme if others don't meet your needs.",
-    "version": "7.0.7",
+    "version": "7.0.13",
     "publisher": "Hyzeta",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/unlimitedsky/vscode-theme-github-light/issues"
     },

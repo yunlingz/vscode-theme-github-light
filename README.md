@@ -1,4 +1,4 @@
-# Github Light Theme
+# Github Light Theme ![license: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-D42129)
 
 <!-- [![Developer: Ling (github.com/hyzeta)](https://img.shields.io/static/v1.svg?label=Developer&message=Ling%20%28github.com/hyzeta%29&logoColor=ffffff&labelColor=565b60&color=d242c1&style=flat&logo=github)](https://github.com/hyzeta)
 [![Email: hyzeta@outlook.com](https://img.shields.io/static/v1.svg?label=Email&message=hyzeta%40outlook.com&logoColor=ffffff&labelColor=565b60&color=d242c1&style=flat&logo=gmail)](mailto:hyzeta@outlook.com)

@@ -4,23 +4,23 @@
     "colors": {
         // base color
         "focusBorder": "#ffffff00",
-        "foreground": "#24292e",
+        "foreground": "#000000",
         "editor.background": "#ffffff",
-        "editor.foreground": "#24292e",
+        "editor.foreground": "#000000",
         "scrollbar.shadow": "#ffffff",
         // activity bar
         "activityBar.border": "#ffffff",
         "activityBar.background": "#ffffff",
-        "activityBar.foreground": "#24292e",
+        "activityBar.foreground": "#000000",
         "activityBarBadge.background": "#d73a49",
         // status bar
         "statusBar.border": "#ffffff",
         "statusBar.background": "#ffffff",
-        "statusBar.foreground": "#24292e",
+        "statusBar.foreground": "#000000",
         "statusBar.noFolderBackground": "#ffffff",
-        "statusBar.noFolderForeground": "#24292e",
+        "statusBar.noFolderForeground": "#000000",
         "statusBar.debuggingBackground": "#ffffff",
-        "statusBar.debuggingForeground": "#24292e",
+        "statusBar.debuggingForeground": "#000000",
         // editor groups and tabs
         "editorGroup.border": "#ffffff",
         "editorGroupHeader.tabsBackground": "#ffffff",
@@ -33,7 +33,7 @@
         // side bars
         "sideBar.border": "#ffffff",
         "sideBar.background": "#ffffff",
-        "sideBar.foreground": "#24292e",
+        "sideBar.foreground": "#000000",
         "sideBarSectionHeader.background": "#ffffff",
         // list
         "list.highlightForeground": "#d73a49",
@@ -69,12 +69,12 @@
         // titlebar
         "titleBar.border": "#ffffff",
         "titleBar.activeBackground": "#ffffff",
-        "titleBar.activeForeground": "#24292e",
+        "titleBar.activeForeground": "#000000",
         "titleBar.inactiveBackground": "#ffffff",
-        "titleBar.inactiveForeground": "#24292e",
+        "titleBar.inactiveForeground": "#000000",
         // editor widget
         "editorWidget.background": "#ffffff",
-        "editorWidget.border": "#24292e",
+        "editorWidget.border": "#000000",
         "editorSuggestWidget.highlightForeground": "#d73a49",
         "editorSuggestWidget.selectedBackground": "#f0f0f0",
         // panel
@@ -111,7 +111,7 @@
             ],
             "name": "Clojure workaround; don't highlight these separately from their enclosing scope",
             "settings": {
-                "foreground": "#24292e"
+                "foreground": "#000000"
             }
         },
         {
@@ -129,7 +129,7 @@
                 "variable.parameter.function"
             ],
             "settings": {
-                "foreground": "#24292e"
+                "foreground": "#000000"
             }
         },
         {
@@ -166,7 +166,7 @@
                 "storage.type.java"
             ],
             "settings": {
-                "foreground": "#24292e"
+                "foreground": "#000000"
             }
         },
         {
@@ -218,7 +218,7 @@
                 "variable.other"
             ],
             "settings": {
-                "foreground": "#24292e"
+                "foreground": "#000000"
             }
         },
         {
@@ -284,7 +284,7 @@
                 "string source"
             ],
             "settings": {
-                "foreground": "#24292e"
+                "foreground": "#000000"
             },
             "name": "String embedded-source"
         },
@@ -391,7 +391,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#24292e"
+                "foreground": "#000000"
             },
             "name": "Markup.italic"
         },
@@ -401,7 +401,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#24292e"
+                "foreground": "#000000"
             },
             "name": "Markup.bold"
         },
@@ -559,7 +559,7 @@
                 "keyword.operator"
             ],
             "settings": {
-                "foreground": "#24292e"
+                "foreground": "#000000"
             }
         }
     ]

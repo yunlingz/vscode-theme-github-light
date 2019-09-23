@@ -1,4 +1,4 @@
-# Github Light Theme ![license: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-D42129)
+# Github Light Theme
 
 <!-- [![Developer: Ling (github.com/hyzeta)](https://img.shields.io/static/v1.svg?label=Developer&message=Ling%20%28github.com/hyzeta%29&logoColor=ffffff&labelColor=565b60&color=d242c1&style=flat&logo=github)](https://github.com/hyzeta)
 [![Email: hyzeta@outlook.com](https://img.shields.io/static/v1.svg?label=Email&message=hyzeta%40outlook.com&logoColor=ffffff&labelColor=565b60&color=d242c1&style=flat&logo=gmail)](mailto:hyzeta@outlook.com)
@@ -8,6 +8,8 @@
 [![Pull Requests](https://img.shields.io/github/issues-pr/hyzeta/vscode-theme-github-light.svg?label=Pull%20Requests&logoColor=ffffff&labelColor=565b60&color=e36209&style=flat&logo=git)](https://github.com/Hyzeta/vscode-theme-github-light/pulls) -->
 
 Try this light theme if others don't meet your needs.
+
+![license: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-D42129)
 
 [![](https://img.shields.io/github/stars/chuling/vscode-theme-github-light?style=social)](https://github.com/chuling/vscode-theme-github-light/stargazers)
 
@@ -38,7 +40,7 @@ If you are using MacBook, and your system is macOS 10.14+, these global settings
 
 ## License
 
-Copyright 2016-2019 chuling \<genling.li@outlook.com\>
+Copyright 2016-2019 chuling \<meetchuling@outlook.com\>
 
 Licensed under either of
 

@@ -75,6 +75,8 @@
     // input
     "input.border": "#b2b2b2",
     "input.background": "#ffffff",
+    "inputOption.activeBorder": "#000000",
+    "inputOption.activeForeground": "#000000",
     "dropdown.border": "#b2b2b2",
     "dropdown.background": "#ffffff",
     "dropdown.listBackground": "#ffffff",

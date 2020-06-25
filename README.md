@@ -12,11 +12,11 @@ Try this light theme if others don't meet your needs.
 
 ### Origin pure white background: Github Light Theme
 
-![pure white background](https://ibb.co/7G1Bprv)
+![pure white background](./preview/0.png)
 
 ### Gray background: Github Light Theme - Gray
 
-![gray background](https://ibb.co/1rZXCvQ)
+![gray background](./preview/1.png)
 
 ## Tips
 

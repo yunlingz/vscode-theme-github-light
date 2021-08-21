@@ -6,11 +6,11 @@
   "publisher": "Hyzeta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chuling/vscode-theme-github-light/issues"
+    "url": "https://github.com/yunlingz/vscode-theme-github-light/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chuling/vscode-theme-github-light.git"
+    "url": "https://github.com/yunlingz/vscode-theme-github-light.git"
   },
   "icon": "icon.png",
   "engines": {

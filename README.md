@@ -2,10 +2,10 @@
 
 Try this light theme if others don't meet your needs.
 
-![license: MIT](https://img.shields.io/badge/license-MIT-A31F34)
-[![](https://img.shields.io/github/stars/chuling/vscode-theme-github-light?style=social)](https://github.com/chuling/vscode-theme-github-light/stargazers)
+[![license:BSD-2-Clause](https://img.shields.io/badge/license-BSD--2--Clause-2f363d)](LICENSE)
+[![](https://img.shields.io/github/stars/yunlingz/vscode-theme-github-light?style=social)](https://github.com/yunlingz/vscode-theme-github-light/stargazers)
 
-* [GitHub repository](https://github.com/chuling/vscode-theme-github-light.git)
+* [GitHub repository](https://github.com/yunlingz/vscode-theme-github-light.git)
 * [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
 
 ## Preview
@@ -31,4 +31,4 @@ These global settings may give you a better experience.
 
 ## License
 
-[MIT License](LICENSE-MIT)
+[BSD-2-Clause](LICENSE)
